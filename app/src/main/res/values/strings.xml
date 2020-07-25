@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IC06</string>
+    <string name="welcome_text">Welcome to Trivia App</string>
+    <string name="text_exit">Exit</string>
+    <string name="text_trivia">Start Trivia</string>
+    <string name="questSting">Question Text Goes here</string>
+    <string name="textResult">Try again and see if you can get all correct results!</string>
+</resources>
